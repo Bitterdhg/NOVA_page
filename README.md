@@ -1,2 +1,1 @@
-# NOVA_page
-nova project page
+# NOVA.github.io
